@@ -12,5 +12,5 @@ int main(){
         if(ele%2 == 0) ele *= 2;
         else ele *= ele;
     }
-    for(int ele : v) cout<<ele<<" ";
+    for(int ele : v) cout<<ele<<" " ;
 }
